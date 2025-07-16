@@ -1,4 +1,4 @@
-# 🌟 ASTEAM 2025 Summer Camp Resources
+# 🌟 Mayflower ASTEM 2025 Summer Camp Resources
 
 Welcome to the official **ASTEAM 2025 Summer Camp** resource repository! This collection of **lecture slides** and **hands-on lab activities** is designed to support students and instructors through an exciting STEAM learning journey combining **technology, electronics, programming, and creativity**.
 
@@ -36,3 +36,11 @@ To make the most of this repo:
 4. Follow the `Tutorial_4WD.pdf` for 4WD car projects.
 
 ---
+
+## Micromouse Resources
+
+### 1. [K.S. Wichit's Micromouse Project](https://kswichit.net/micromouse/micromouse.html)
+This page by K.S. Wichit offers a detailed walkthrough of building a Micromouse robot, including schematics, PCB layout, source code, and mechanical design.
+
+### 2. [RT Corporation: Pico + micro-ROS + Arduino Examples](https://github.com/rt-net/pico_micro_ros_arduino_examples)
+This GitHub repository by RT Corporation showcases examples using the Arduino framework.
