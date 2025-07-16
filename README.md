@@ -8,7 +8,7 @@ Welcome to the official **ASTEAM 2025 Summer Camp** resource repository! This co
 
 ```
 ASTEAM-2025-Resources/
-├── Lab Resource/          # Hands-on hardware and coding experiments
+├── Lab Resource/          # Hands-on hardware and programs
 │   ├── 4WD Car/
 │   ├── ADC/
 │   ├── ...
@@ -18,6 +18,9 @@ ASTEAM-2025-Resources/
 │   ├── Computer Vision.pdf
 │   ├── ...
 │
+├── Micromouse/            # Micromouse robot kits documentation
+│   ├──  RT Micromouse/    # Translated user manual
+│   ├──  T01 Micromouse/   # Quick start and program
 ├── README.md              # You’re here!
 ```
 ---
@@ -39,10 +42,10 @@ To make the most of this repo:
 
 ## Micromouse Resources
 
-### 1. [K.S. Wichit's Micromouse Project](https://kswichit.net/micromouse/micromouse.html)
+### 1. [T01 Micromouse](https://kswichit.net/micromouse/micromouse.html)
 This page by K.S. Wichit offers a detailed walkthrough of building a Micromouse robot, including schematics, PCB layout, source code, and mechanical design.
 
-### 2. [RT Mouse Arduino Code](https://github.com/rt-net/pico_micro_ros_arduino_examples)
+### 2. [RT Micromouse](https://github.com/rt-net/pico_micro_ros_arduino_examples)
 
 This GitHub repository by RT Corporation showcases examples using the Arduino framework. The original Japanese manuals are available at [RT Corporation: Pi:Co Classic3 (ESP32)](https://downloads.rt-shop.jp/PC3-ESP32/index.html), which include setup instructions, wiring guides, firmware, and useful references for development and operation. A translated version can be found in the `Micromouse` folder.
 
