@@ -50,4 +50,4 @@ This page by K.S. Wichit offers a detailed walkthrough of building a Micromouse 
 This GitHub repository by RT Corporation showcases examples using the Arduino framework. The original Japanese manuals are available at [RT Corporation: Pi:Co Classic3 (ESP32)](https://downloads.rt-shop.jp/PC3-ESP32/index.html), which include setup instructions, wiring guides, firmware, and useful references for development and operation. A translated version can be found in the `Micromouse` folder.
 
 ### 3. [IEEE at UCLA Project Docs](https://projects.ieeebruins.com/micromouse/)
-This site documents the UCLA IEEE student branch’s Micromouse project, featuring detailed build logs, tutorials, component breakdowns, and software architecture.
+This site documents the UCLA IEEE student branch’s Micromouse project, featuring detailed build logs, tutorials, component breakdowns, and software architecture. Their slides and additional materials are available in the [Google Drive](https://drive.google.com/drive/folders/17CqYObDhKV1mDx2TkpDMS6F8mq6WzThL)
